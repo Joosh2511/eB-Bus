@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232046766703",
+    "project_id": "fiyaaa-eea44",
+    "storage_bucket": "fiyaaa-eea44.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232046766703:android:344d2995a41cef8977bb9a",
+        "android_client_info": {
+          "package_name": "com.example.ebbus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Vu_PA0y1joKP-49rLUK-I9hZPwCJqjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
